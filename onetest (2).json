@@ -1,0 +1,63 @@
+{
+    "results": [{
+        "duration": 27922,
+        "lastUpdated": 1556080909807,
+        "verdict": "PASS",
+        "name": "SearchForCityGoogleVariable",
+        "id": "101",
+        "locked": false,
+        "startDate": 1556080831089,
+        "status": "COMPLETE",
+        "test": {
+            "name": "SearchForCityGoogleVariable",
+            "id": "A1E90553A0FC6230FE02B93331343463",
+            "type": "com.ibm.rational.test.lt.lttest"
+        },
+        "project": {
+            "lastUpdated": 1556081019539,
+            "name": "HOT_UI_Master_Project",
+            "id": "1"
+        },
+        "tags": [],
+        "reports": [{
+            "name": "Mobile and Web UI Report",
+            "lastUpdated": 1556080908885,
+            "content-type": "report\/static",
+            "href": "\/results\/static\/9037ce32169a4\/SearchForCityGoogleVariable_1556080831089.html",
+            "id": "151"
+        }, {
+            "name": "Statistics Report",
+            "lastUpdated": 1556080909807,
+            "content-type": "report\/analytics",
+            "href": "\/results\/analytics\/web\/index.html?session=\/HOT_UI_Master_Project\/SearchForCityGoogleVariable_1556080831089.stats",
+            "id": "152"
+        }]
+    }, {
+        "duration": 18593,
+        "lastUpdated": 1556081019539,
+        "verdict": "PASS",
+        "name": "com.Classics.Scripts.Classics",
+        "id": "102",
+        "locked": false,
+        "startDate": 1556080993000,
+        "status": "COMPLETE_WITH_ERROR",
+        "test": {
+            "name": "com.Classics.Scripts.Classics",
+            "id": "FT_Master_com.Classics.Scripts.Classics",
+            "type": "com.rational.test.ft.script"
+        },
+        "project": {
+            "lastUpdated": 1556081019539,
+            "name": "HOT_UI_Master_Project",
+            "id": "1"
+        },
+        "tags": [],
+        "reports": [{
+            "name": "Functional Report",
+            "lastUpdated": 1556081019539,
+            "content-type": "report\/static",
+            "href": "\/results\/static\/90396b06a15a0\/com.Classics.Scripts.Classics\/rational_ft_log.html?https:\/\/localhost:5443\/\/results\/shared\/dojo\/1.9.1\/dojo\/dojo.js",
+            "id": "153"
+        }]
+    }]
+}
